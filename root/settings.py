@@ -138,6 +138,6 @@ MAILERS = {
 }
 
 CORS_ALLOWED_ORIGINS = [
-    'http://localhost:3000',
+    'http://localhost:60870',
     'https://your-frontend.vercel.app',
 ]
